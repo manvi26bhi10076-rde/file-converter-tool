@@ -22,6 +22,9 @@ A simple browser-based file converter tool to convert images to JPG,PNG,WEBP for
   Enable GitHub pages from Settings> pages > Deploy from main branch
 
   ## AUTHOR
-  MADE BY MANVI. 
+  Submitted by:[Manvi]
+  Registration number:[26BHI10076]
+  College:[VIT-BPL]
+  Submission Date:[September-29-2026] 
   
  
